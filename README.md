@@ -20,8 +20,7 @@
 
 | File | Contents | 
 | --- | --- |
-|[CarreMagique](https://github.com/walwalwalides/Java-Collection-Examples/tree/master/Employes)| Create Magic Square Solution Using Delphi 
-
+|[Employes](https://github.com/walwalwalides/Java-Collection-Examples/tree/master/Employes)| A class that implements an interface 
 | README.md | The Readme for this Project|
 | .gitignore | Git ignores the Files in this File |
 
