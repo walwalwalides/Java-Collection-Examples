@@ -21,16 +21,11 @@ public class MainTest {
 		
 		System.out.println(Employer.summe(1,2));
 
-		// Call travailler
-        //hallo the world
-		//
-		//
-		
-
 		
 		en1.travailler();
 
 		Horraire e4 = new Employer();
+		//
 		
 		
 		
