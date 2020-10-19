@@ -5,7 +5,7 @@
 <img src=Java-Collection-Examples.jpg />
 <p/>
 
-**Authors:**  *WalWalWalides*
+**Authors:**  *WalWalWalides* & *Amorna*
 ------
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![GitHub](https://img.shields.io/github/license/walwalwalides/Java-Collection-Examples)
@@ -20,7 +20,7 @@
 
 | File | Contents | 
 | --- | --- |
-|[Employes](https://github.com/walwalwalides/Java-Collection-Examples/tree/main/Employers)| A class that implements an interface 
+|[Employes](https://github.com/walwalwalides/Java-Collection-Examples/tree/main/Employes)| A class that implements an interface 
 | README.md | The Readme for this Project|
 | .gitignore | Git ignores the Files in this File |
 
