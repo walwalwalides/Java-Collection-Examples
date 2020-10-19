@@ -5,7 +5,7 @@
 <img src=Java-Collection-Examples.jpg />
 <p/>
 
-**Authors:**  *WalWalWalides* & *AmorNa*
+**Authors:**  *WalWalWalides* & *Amorna*
 ------
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![GitHub](https://img.shields.io/github/license/walwalwalides/Java-Collection-Examples)
