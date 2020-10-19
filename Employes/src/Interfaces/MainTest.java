@@ -22,9 +22,7 @@ public class MainTest {
 		System.out.println(Employer.summe(1,2));
 
 		// Call travailler
-		//hallo the world
-		//hallo3 sdfsdfgfsggfgf
-		// asdm,lamfdklnsd
+
 		
 		en1.travailler();
 
