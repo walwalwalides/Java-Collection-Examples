@@ -74,7 +74,7 @@ public class Employer implements Horraire {
 		return "Employer [name=" + name + ", matricule=" + matricule + ", salaire=" + salaire + "]";
 	}
 	
-	//Methode summe 2 3 sd dcsd
+	//Methode summe 2
 	
 	
 	static int  summe(int a,int b)
