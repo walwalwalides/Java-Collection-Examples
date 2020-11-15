@@ -22,6 +22,7 @@
 | --- | --- |
 |[Employes](https://github.com/walwalwalides/Java-Collection-Examples/tree/main/Employes)| A class that implements an interface 
 |[Hibernate_PostgreSQL](https://github.com/walwalwalides/Java-Collection-Examples/tree/main/Hibernate_PostgreSQL)| Connect to PostgreSQL database using Hibernate
+|[Basic Exercises](https://github.com/walwalwalides/Java-Collection-Examples/tree/main/Basic_Exercises)| Basic Exercises
 | README.md | The Readme for this Project|
 | .gitignore | Git ignores the Files in this File |
 
